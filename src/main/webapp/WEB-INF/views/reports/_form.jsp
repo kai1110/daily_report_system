@@ -33,7 +33,7 @@
 <br /><br />
 <label for="${AttributeConst.REP_TIME_OUT.getValue()}">退勤時間</label><br />
 <input type="text" name="${AttributeConst.REP_TIME_OUT.getValue()}" value="${report.timeOut}" />
-<br /><br />"
+<br /><br />
 
 
 <input type="hidden" name="${AttributeConst.REP_ID.getValue()}" value="${report.id}" />
